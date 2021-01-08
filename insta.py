@@ -4,8 +4,8 @@ import time
 import pyautogui
 
 def instadm():
-    user = "piyush_agarwal_official"
-    password = "agarwal1"
+    user = "Your username"
+    password = "your password"
     rec = input("Enter Username\n")
     msg = input("Enter Your Message\n") 
     time.sleep(5)
